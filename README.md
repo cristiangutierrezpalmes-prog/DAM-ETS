@@ -19,3 +19,6 @@ Las unidades se añadirán una a una.
 
 ## Estado
 En construcción.
+
+## Revisión desde GitHub
+La metodología elegida influye en la planificación, la colaboración y las entregas.
