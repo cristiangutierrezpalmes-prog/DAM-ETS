@@ -29,6 +29,9 @@ IntelliJ IDEA, Git, GitHub, JDK y Markdown.
 
 - [Unidad 05 - Elaboración de diagramas de comportamiento](unidad-05/)
 
+
+- [Unidad 06 - Diseño, depuración y realización de pruebas](unidad-06/)
+
 ## Estado
 En construcción.
 
