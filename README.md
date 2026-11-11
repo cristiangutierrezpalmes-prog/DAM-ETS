@@ -32,6 +32,8 @@ IntelliJ IDEA, Git, GitHub, JDK y Markdown.
 
 - [Unidad 06 - Diseño, depuración y realización de pruebas](unidad-06/)
 
+-- [Unidad 07 - Análisis de código y refactorización](unidad-07/)
+
 ## Estado
 En construcción.
 
