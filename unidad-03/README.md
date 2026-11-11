@@ -27,3 +27,6 @@ Documentar el flujo de trabajo Git de un equipo de desarrollo.
 1. Explicar con un ejemplo el recorrido desde modificar un archivo hasta publicarlo.
 2. Crear una tabla Markdown con cinco comandos Git y su función.
 3. Describir qué hacer ante un push rechazado sin utilizar --force.
+
+## Revisión desde GitHub
+Los diagramas de clases permiten comunicar la estructura y las relaciones del sistema.
