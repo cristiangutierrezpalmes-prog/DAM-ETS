@@ -27,3 +27,5 @@ Configurar un proyecto Java e iniciar un programa HolaMundo.
 1. Anotar la salida de java -version y javac -version (sin datos privados).
 2. Crear y ejecutar una clase HolaMundo y explicar su método main.
 3. Documentar tres incidencias frecuentes al configurar un JDK y su solución.
+
+- [Unidad 02 - Instalación, configuración y uso de entornos de desarrollo](unidad-02/)
