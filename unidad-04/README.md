@@ -29,8 +29,6 @@ Diseñar un diagrama de clases para un sistema de biblioteca.
 3. Dibujar un diagrama (a mano o con herramienta) y guardarlo en la carpeta de la unidad.
 
 <<<<<<< HEAD
-[Unidad 04 - Elaboración de diagramas de clases](unidad-04/)
-
 =======
 Los diagramas de clases permiten comunicar la estructura y las relaciones del sistema.
 >>>>>>> c0f4c4118b1bdfd19111ef4baeace00f94bfae46
