@@ -28,4 +28,9 @@ Configurar un proyecto Java e iniciar un programa HolaMundo.
 2. Crear y ejecutar una clase HolaMundo y explicar su método main.
 3. Documentar tres incidencias frecuentes al configurar un JDK y su solución.
 
+<<<<<<< HEAD
 - [Unidad 02 - Instalación, configuración y uso de entornos de desarrollo](unidad-02/)
+=======
+## Revisión desde GitHub
+Un entorno correctamente configurado facilita compilar, ejecutar y depurar aplicaciones.
+>>>>>>> 1b9f65fc27a5b2e4532ccda15865e17586c8cbf3
